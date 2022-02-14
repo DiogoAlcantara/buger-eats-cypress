@@ -72,10 +72,6 @@ describe('Signup', () => {
         })
     });
 
-
-
-
-
     /* it.only('Required Fields', function () {
         signupPage.go();
         signupPage.submit();

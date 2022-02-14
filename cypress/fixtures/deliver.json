@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Diogo Alcantara",
+        "cpf": "00000087611",
+        "email": "teste@teste.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Danilo Alcantara",
+        "cpf": "000000876AA",
+        "email": "teste1@teste.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Diogo Alcantara",
+        "cpf": "00000087611",
+        "email": "teste.teste.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
